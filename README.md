@@ -41,7 +41,8 @@ This program couldn't run without the ETF database:
 <img width="1536" alt="Screen Shot 2022-07-28 at 16 34 29" src="https://user-images.githubusercontent.com/107497500/181641716-dab6e4b5-93ad-40d7-a86a-8be52d9bea22.png">
 <img width="1535" alt="Screen Shot 2022-07-28 at 16 34 38" src="https://user-images.githubusercontent.com/107497500/181641724-1478d160-64bb-4880-ba97-e9db3c778956.png">
 <img width="1535" alt="Screen Shot 2022-07-28 at 16 34 48" src="https://user-images.githubusercontent.com/107497500/181641732-8b28d339-a2ce-4553-8b57-a40575c357d7.png">
-<img width="1534" alt="Screen Shot 2022-07-28 at 16 34 54" src="https://user-images.githubusercontent.com/107497500/181641753-d2b6f023-33be-4e95-bb41-4a191065920f.png">
+<img width="1536" alt="Screen Shot 2022-07-28 at 16 36 35" src="https://user-images.githubusercontent.com/107497500/181641909-10c43245-74b8-43d5-b9c2-d1ad93587884.png">
+
 ---
 
 ## Contributors
